@@ -4,9 +4,6 @@
 // Import Sassline base SCSS files in order so variables are read correctly.
 @import "base";
 
-// Import all SCSS modules with Sass globbing.
-@import "modules";
-
 // Demo baseline grid styles.
 #baseline.show-grid {
   background-image: -webkit-linear-gradient(top, cyan 0, rgba(255,255,255,0) 1px);
