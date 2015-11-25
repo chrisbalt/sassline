@@ -17,6 +17,6 @@
     "**/.*",
     "*.json",
     "Gemfile"
-  ]
+  ],
   "license": "MIT"
 }
